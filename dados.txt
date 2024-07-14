@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Juliano
+-Profissão: Web Designer
+-Cidade: Porto Alegre
+-O que faz nas horas vaga: cantar, jogar video game, ir para o meio do mato.
+-Feedback sobre o curso Qualidade de Software: por enquanto muito bom. Bem focado, com informações realmente úteis para o mercado de trabalho.
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma ok. Acho que precisava de uma reformulação na parte de acessibilidade. Por exemplo: a tecla espaço do teclado não pausa o vídeo.
+
+Obrigado!!!
+
+
